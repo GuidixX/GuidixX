@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GuidixX&icon=0&color=12)](https://visitcount.itsvg.in)
-
+![](https://komarev.com/ghpvc/?username=GuidixX&label=Profile%20views&color=0e75b6&style=flat)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
