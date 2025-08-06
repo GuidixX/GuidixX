@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Derpfest AOSP
+- 🔭 I’m currently working on VoltageOS AOSP
 - 🌱 I’m currently learning Java and C
 - ⚡ Fun fact: I'm an EDM Music Producer
 -->
-# 💫 About Me: I'm a beginner android developer.
+# 💫 About Me: Love to develope any open source project.
 
 
 # 💻 Tech Stack:
